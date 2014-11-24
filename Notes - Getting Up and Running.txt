@@ -1,3 +1,5 @@
 Getting Up and Running
 
 1. JavaScript - DeFacto Programming language of the web.
+2. Templates are the best way to scale web applications vs hard coding them
+3.

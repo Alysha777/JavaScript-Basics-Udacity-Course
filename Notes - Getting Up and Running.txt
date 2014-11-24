@@ -1,0 +1,3 @@
+Getting Up and Running
+
+1. JavaScript - DeFacto Programming language of the web.
